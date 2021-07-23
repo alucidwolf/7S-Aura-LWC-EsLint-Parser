@@ -1,0 +1,21 @@
+{
+  "name": "7s-aura-lwc-eslint-parser",
+  "version": "1.1.9",
+  "description": "Custom parser for aura and lwc directories in standard sfdx projects",
+  "keywords": [
+    "lwc",
+    "aura",
+    "eslint",
+    "parser",
+    "7Summits"
+  ],
+  "main": "index.js",
+  "bin": {
+    "7s-aura-lwc-eslint-parser": "./bin/7s-aura-lwc-eslint-parser.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Franklin <alucidwolf@gmail.com>",
+  "license": "ISC"
+}
